@@ -1,0 +1,5 @@
+-keep class com.wargart.data.remote.dto.** { *; }
+-keep class com.wargart.domain.model.** { *; }
+-keepattributes Signature,InnerClasses,EnclosingMethod
+-dontwarn retrofit2.**
+-keep class retrofit2.** { *; }

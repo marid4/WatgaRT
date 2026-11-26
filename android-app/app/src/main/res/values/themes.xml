@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.WargaRT" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
